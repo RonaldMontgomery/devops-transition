@@ -6,7 +6,7 @@ A study plan to transition from Windows endpoint management to DevOps engineer.
 * [Articles](#head1)
 
 ### <a name="head0"></a>Courses
-1.    [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
+1.    [Essentials of Linux System Administration (LFS201)](https://training.linuxfoundation.org/training/essentials-of-linux-system-administration/)
 
 2.    [Introduction to Python Programming Professional Certificate](https://www.edx.org/professional-certificate/introduction-to-python-programming)\
 a. [Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/0ddde4588c4a4852aa5c85bc01efc69b)\
