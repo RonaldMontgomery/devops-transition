@@ -1,5 +1,5 @@
 # devops-transition
-A study plan to transition from Windows endpoint management to DevOps engineer.
+A study plan to broaden my knowledge from Windows endpoint management to DevOps engineer.
 
 ## Table of Contents
 * [Courses](#head0)
