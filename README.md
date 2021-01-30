@@ -11,7 +11,7 @@ A study plan to broaden my knowledge from Windows endpoint management to DevOps 
 
 2.    [Introduction to Python Programming Professional Certificate](https://www.edx.org/professional-certificate/introduction-to-python-programming)\
 a. [Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/0ddde4588c4a4852aa5c85bc01efc69b) [- **Complete**](https://courses.edx.org/certificates/0ddde4588c4a4852aa5c85bc01efc69b)\
-b. [Computing in Python II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures)\
+b. [Computing in Python II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures) [- **Complete**](https://courses.edx.org/certificates/158dd1eb277f4a45a198e2d048c20a65)\
 c. [Computing in Python III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures)\
 d. [Computing in Python IV: Objects & Algorithms](https://www.edx.org/course/computing-in-python-iv-objects-algorithms)
 
